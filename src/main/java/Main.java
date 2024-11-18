@@ -19,7 +19,7 @@ public class Main {
                         rs.addCarToRace(new Car(brand,speed));
                         break;
                     } else {
-                        System.out.println("— Неправильная скорость");
+                        System.out.println("— Неправильная скорость ");
                     }
                 } else {
                     System.out.println("— Неправильная скорость, не число");
