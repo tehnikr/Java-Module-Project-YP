@@ -1,6 +1,6 @@
 public class Car {
-    String brand;
-    int speed;
+    final String brand;
+    final int speed;
 
     Car (String brand, int speed){
         this.brand = brand;
